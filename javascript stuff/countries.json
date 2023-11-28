@@ -1,0 +1,65 @@
+{
+    "first":{
+    "location": {
+      "name": "London",
+      "region": "City of London, Greater London",
+      "country": "United Kingdom",
+      "lat": 51.52,
+      "lon": -0.11,
+      "tz_id": "Europe/London",
+      "localtime_epoch": 1701089062,
+      "localtime": "2023-11-27 12:44"
+    }
+    },
+    "second":{
+    "location": {
+      "name": "Tel Aviv-Yafo",
+      "region": "Tel Aviv",
+      "country": "Israel",
+      "lat": 32.07,
+      "lon": 34.76,
+      "tz_id": "Asia/Jerusalem",
+      "localtime_epoch": 1701088891,
+      "localtime": "2023-11-27 14:41"
+    }
+    },
+  
+  "third":{
+    "location": {
+      "name": "Jerusalem",
+      "region": "Yerushalayim",
+      "country": "Israel",
+      "lat": 31.78,
+      "lon": 35.23,
+      "tz_id": "Asia/Jerusalem",
+      "localtime_epoch": 1701088908,
+      "localtime": "2023-11-27 14:41"
+    }
+    
+  },
+  "fourth":{
+    "location": {
+      "name": "Jersey City",
+      "region": "New Jersey",
+      "country": "United States of America",
+      "lat": 40.73,
+      "lon": -74.08,
+      "tz_id": "America/New_York",
+      "localtime_epoch": 1701088918,
+      "localtime": "2023-11-27 7:41"
+    }
+    
+  },
+  "fifth":{
+    "location": {
+      "name": "Manhattan",
+      "region": "Kansas",
+      "country": "United States of America",
+      "lat": 39.18,
+      "lon": -96.57,
+      "tz_id": "America/Chicago",
+      "localtime_epoch": 1701089019,
+      "localtime": "2023-11-27 6:43"
+    }
+  }
+}
